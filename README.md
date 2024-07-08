@@ -6,7 +6,7 @@ This project implements an object detection and tracking system using OpenCV in 
 
 ## Features
 
-- Background subtraction using MOG2 or KNN methods
+- Background subtraction using MOG2(Mixture of Gaussians) or KNN(K-Nearest Neighbors) methods
 - Centroid-based object tracking with unique ID assignment
 - Optical flow tracking for visualizing object movement
 - Foreground mask overlay for visual feedback
